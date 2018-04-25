@@ -5,6 +5,11 @@
 TODOs:
 2. Connect to FireBase.com
   a. `firebase use walkingcrud` (using firebase CLI)
+  b. Needed the orginal package-lock.json to avoid this build error:
+```
+ERROR in node_modules/angularfire2/firebase.app.module.d.ts(10,22): error TS2420: Class 'FirebaseApp' incorrectly implements interface 'FirebaseApp'.
+Property 'automaticDataCollectionEnabled' is missing in type 'FirebaseApp'.
+```
 3. Connect to vanity URL http://MattPayne.org/walkingCRUD
 4. Add AGM (angular google maps)
 5. Add NGX-datatable to put route segments into
