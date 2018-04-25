@@ -4,6 +4,7 @@
 
 TODOs:
 2. Connect to FireBase.com
+  a. `firebase use walkingcrud` (using firebase CLI)
 3. Connect to vanity URL http://MattPayne.org/walkingCRUD
 4. Add AGM (angular google maps)
 5. Add NGX-datatable to put route segments into
