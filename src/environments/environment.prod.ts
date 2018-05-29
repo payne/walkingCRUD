@@ -5,7 +5,7 @@ export const environment = {
       authDomain: 'walkingcrud.firebaseapp.com',
       databaseURL: 'https://walkingcrud.firebaseio.com',
       projectId: 'walkingcrud',
-      storageBucket: '',
-      messagingSenderId: '1031860037280',
+      storageBucket: 'walkingcrud.appspot.com',
+      messagingSenderId: '1031860037280'
     },
 };
